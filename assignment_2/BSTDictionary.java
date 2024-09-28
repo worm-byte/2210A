@@ -1,7 +1,4 @@
 /*
-Rosaline Scully
-August 3, 2024
-Student ID 250966670
 
 This class implements a Binary Search Dictionary using methods
 from my Binary Search Tree class.
