@@ -1,7 +1,4 @@
 /*
-Rosaline Scully
-August 3, 2024
-Student ID 250966670
 
 This class creates a Key that holds a label and type.
  */
