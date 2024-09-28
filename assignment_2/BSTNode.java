@@ -1,7 +1,4 @@
 /*
-Rosaline Scully
-August 3, 2024
-Student ID 250966670
 
 This class is a data structure for a Binary Search Tree node
 with getters and setters.
