@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * Student ID: 250966670
- * July 22, 2024
  * 
  * This class stores a configuration and it's score in a data structure
  */
