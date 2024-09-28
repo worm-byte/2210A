@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * August 11, 2024
- * Student ID: 250966670
  * 
  * This class holds data for a GraphEdge and has getters and setters.
  */
