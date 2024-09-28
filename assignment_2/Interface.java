@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * August 3, 2024
- * Student ID 250966670
  * 
  * This is the interface for running the program which is a dictionary of different files.
  * It will either show a definition, play a song or sound, show a picture or GIF, or show a website.
