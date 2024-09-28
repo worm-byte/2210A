@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * Student ID: 250966670
- * July 22, 2024
  * 
  * This class has different methods that revolve around the current
  * configuration of the board.
