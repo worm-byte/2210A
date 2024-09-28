@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * August 11, 2024
- * Student ID: 250966670
  * 
  * This class creates a maze by reading a file and finds a solution (if it exists)
  * for the maze. 
