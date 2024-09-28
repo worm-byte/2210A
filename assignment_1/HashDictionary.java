@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * Student ID: 250966670
- * July 22, 2024
  * 
  * This class creates a hash dictionary and uses a hash function.
  * It allows you to add and remove items from the hash dictionary.
