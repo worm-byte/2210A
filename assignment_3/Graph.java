@@ -1,7 +1,4 @@
 /*
- * Rosaline Scully
- * August 11, 2024
- * Student ID: 250966670
  * 
  * This class implements the GraphADT and has multiple methods that may be needed
  * to create a graph and check what edges and nodes are in it.
